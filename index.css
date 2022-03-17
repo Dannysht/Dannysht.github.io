@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+html
+{
+	background-image: url(resources/background.jpeg);
+	background-size: cover;
+}
+
+h1
+{
+	text-align: center;
+ 	font-family: 'Open Sans', sans-serif;
+}
+h2
+{
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+}
+nav
+{
+	display: flex;
+	justify-content: center;
+	text-indent:35px;
+}
+
+a
+{
+	font-family: 'Montserrat', sans-serif;	
+	color: #004bc2;
+	text-decoration: none;
+	font-size: 22px;
+}
+
+a:hover
+{
+	color:#001e4d
+}
+
+a:visited
+{
+	text-decoration: none;
+}
