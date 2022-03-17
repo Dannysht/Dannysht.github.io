@@ -21,6 +21,7 @@ nav
 	display: flex;
 	justify-content: center;
 	text-indent:35px;
+	text-align: center;
 }
 
 a
